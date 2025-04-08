@@ -6,6 +6,6 @@ import Componentes from './Componentes.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Componentes />
+    <Componentes nombre='Marianny'/>
   </StrictMode>,
 )
